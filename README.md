@@ -9,7 +9,7 @@ Sistema de autenticação via Discord para servidores FiveM. Verifica se o jogad
 - Verifica se o jogador possui a role necessária (whitelist)
 - Mensagens personalizáveis
 - Sistema de debug para diagnóstico
-- Suporte a ConVar para link do Discord (exporta para outros scripts poderem usar também)
+- Suporte a ConVar para link do Discord (exporta para outros recursos poderem usar também)
 
 ## Instalação
 
